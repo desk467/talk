@@ -175,6 +175,7 @@ module.exports = {
     "eslint:recommended",
     "plugin:jsdoc/recommended",
     "plugin:prettier/recommended",
+    "plugin:react-hooks/recommended",
   ],
   parserOptions: {
     ecmaVersion: 2018,
